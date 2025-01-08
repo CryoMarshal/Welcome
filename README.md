@@ -20,7 +20,7 @@ I'm an A-level student right now, and I'm enrolling to university for a followin
 - **Honkai: Star Rail** UID:130233422(for CN Servers,prior),900161950(for TW/HK/MO Servers)
 - ![Star Rail CN](https://hoyocard.qhy04.com/sr/detail/2/339713509.png)
 - **Genshin Impact** UID:243345458(for CN Servers),906865794(for TW/HK/MO Servers)
-- ![Genshin Impact CN](https://hoyocard.qhy04.com/ys/detail/2/339713509.png)
+- ![Genshin Impact CN](https://hoyocard.qhy04.com/gs/detail/14/339713509.png)
 - **Zenless Zone Zero** UID:15245905(for CN Servers)
 - ![Zenless Zone Zero CN](https://hoyocard.qhy04.com/zzz/detail/2/339713509.png)
 - 
