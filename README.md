@@ -17,11 +17,11 @@ I'm an A-level student right now, and I'm enrolling to university for a followin
 - **X:** [@CryoMarshalX](https://twitter.com/CryoMarshalX)
 - **YouTube:** (https://www.youtube.com/CryoMarshalYT)
 - 
-- **Honkai: Star Rail** UID:130233422(for CN Servers,prior),900161950(for TW/HK/MO Servers)
+- **Honkai: Star Rail** UID:130233422(for CN Servers),900161950(for TW/HK/MO Servers, not available in other servers)
 - ![Star Rail CN](https://hoyocard.qhy04.com/sr/detail/2/339713509.png)
-- **Genshin Impact** UID:243345458(for CN Servers),906865794(for TW/HK/MO Servers)
+- **Genshin Impact** UID:243345458(for CN Servers 1)/337304501(for CN Servers 2),906865794(for TW/HK/MO Servers, also not available in other servers)
 - ![Genshin Impact CN](https://hoyocard.qhy04.com/gs/detail/14/339713509.png)
-- **Zenless Zone Zero** UID:15245905(for CN Servers)
+- **Zenless Zone Zero** UID:15245905(for CN Servers 1),40820572(for CN Servers 2)
 - ![Zenless Zone Zero CN](https://hoyocard.qhy04.com/zzz/detail/2/339713509.png)
 - 
 Feel free to reach out if you have any questions or just want to connect!
